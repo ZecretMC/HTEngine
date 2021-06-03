@@ -4,6 +4,9 @@
 You can get builds of HTEngine here.
 The following versions are released:
 
-(NONE)
+1.0.0
 
+HOW TO GET:
+
+Extract the .cab file (use 7-zip, IZArc, WinZip, WinRAR, etc.)
 Thank you!
